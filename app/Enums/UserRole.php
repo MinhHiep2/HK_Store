@@ -31,6 +31,7 @@ enum UserRole: string
             self::ADMIN->value => 'Quản trị viên',
             self::STAFF->value => 'Nhân viên',
             self::CUSTOMER->value => 'Khách hàng',
+            
         ];
     }
 }
